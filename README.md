@@ -66,3 +66,20 @@ MAD204-ASSIGNMENT1-PARTA-PARTB-DARSHILKUMAR-KARKAR/
 ├── java/
 │ └── com/example/selftalk/MainActivity.java
 └── README-PartB.md
+
+
+
+
+---
+
+## 🧩 Git Workflow Summary
+- **8 commits**
+- **5 pull requests (PRs)**
+- Merged into `main` branch
+
+---
+
+## 🧠 Author
+**Darshilkumar Karkar**  
+Student ID: A00203357  
+Canadore College – Mobile Application Development 
